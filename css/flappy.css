@@ -1,6 +1,7 @@
 .home{
     background-color:#10454F ;
     color:  white;
+    height: 100vh;
 }
 .main::after{
     content: "";
